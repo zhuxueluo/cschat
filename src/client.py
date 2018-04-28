@@ -1,15 +1,8 @@
 # coding:utf-8
-'''
-Created on 2018
-
-@author: llin4
-'''
-import userdata
 import socket
 import csconf
 import thread
 import sys
-from pip._vendor.distlib._backport.tarfile import TUREAD
 
 def paddingid(id):
     id_padded = id+'\0'*(csconf.maxidlen - len(id))
