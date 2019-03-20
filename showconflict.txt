@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-add by b222
-=======
-add by b111
-keep both to test
->>>>>>> a32165f3d56f160b8cfea3137576c105d1396226
-000
 1
 2
 3
-4444 tosee update conflict
-5.2a
-5.1a
-6a
-7
+4
